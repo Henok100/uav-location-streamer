@@ -25,7 +25,7 @@ The `Method_for_clientUDP.py` script provides helper methods to the main `client
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Henok100/PythonJorunal.git
+    git clone https://github.com/Henok100/uav-location-streamer.git
     ```
 
 2. **Install required libraries:**
